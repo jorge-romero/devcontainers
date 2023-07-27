@@ -1,0 +1,6 @@
+ansible
+argcomplete
+molecule[docker,lint]
+pycodestyle
+black
+ansible-lint
